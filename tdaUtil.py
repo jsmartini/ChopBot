@@ -27,8 +27,8 @@ c = client_from_login_flow(
 global c
 
 user_statistics = {
-    "Margaritas" :(0.1609, 4375),
-    "Red Snapper" : (0.1850, 5030),
+    "PCP" :(0.1609, 4375),
+    "PCVP" : (0.1850, 5030),
     "PorkChop": (0.4557, 12393),
     "Oxaal": (0.1663, 4523),
     "Steve 'big guy' Sheridan": (0.0322, 875)
